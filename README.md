@@ -1,2 +1,3 @@
 # git-demo
-asdf
+
+andreas and milan are showing lori and rachel how to get started with git and github.
